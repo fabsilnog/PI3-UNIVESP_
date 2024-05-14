@@ -1,0 +1,43 @@
+nav{
+    display: flex;
+}
+
+#item1{
+    display: flex;
+    align-items: start;
+    justify-content: left;
+    text-decoration: dashed;
+}
+
+#item2{
+    display: flex;
+    align-items: start;
+    justify-content: left;
+    text-decoration: dashed;
+}
+
+
+#item1 li a{
+    color: #33603F;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: dashed;
+}
+
+#item2 li a{
+    color: #565555;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: dashed;
+}
+
+
+
+#login{
+    align-items: end;
+    align-content: end;
+    float: right;
+    position: absolute;
+    right: 0;
+}
+

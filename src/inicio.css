@@ -1,0 +1,28 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+}
+
+html, body {
+    font-family: "Inter", sans-serif;
+}
+
+#banner1 {
+  width: 100%;
+}
+
+#imagem1 {
+    width: 40%;
+    height: 50%;
+    float: left;
+  }
+
+#texto1 {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: justify;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
